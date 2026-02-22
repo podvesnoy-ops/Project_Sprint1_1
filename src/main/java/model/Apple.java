@@ -4,7 +4,7 @@ import model.constants.Colour;
 import model.constants.Discount;
 
 public class Apple extends Food {
-    private String colour; // Цвет яблок 11
+    private String colour; // Цвет яблок 11 + 22
 
     public Apple(int amount, double price, String colour) {
         this.amount = amount;
